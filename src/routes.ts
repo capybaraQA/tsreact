@@ -19,21 +19,21 @@ export const routes: Array<Route> = [
     {
         key: 'home-route',
         title: 'Home',
-        path: '/',
+        path: 'tsreact/home',
         enabled: true,
         component: Home
     },
     {
         key: 'about-route',
         title: 'About',
-        path: '/about',
+        path: 'tsreact/about',
         enabled: true,
         component: About
     },
     {
         key: 'products-route',
         title: 'Products',
-        path: '/products',
+        path: 'tsreact/products',
         enabled: true,
         component: Products
     }
