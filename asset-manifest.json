@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/tsreact/static/css/main.e6c13ad2.css",
-    "main.js": "/tsreact/static/js/main.5b4526f5.js",
+    "main.js": "/tsreact/static/js/main.b65f80b9.js",
     "static/js/787.b8469d98.chunk.js": "/tsreact/static/js/787.b8469d98.chunk.js",
     "index.html": "/tsreact/index.html",
     "main.e6c13ad2.css.map": "/tsreact/static/css/main.e6c13ad2.css.map",
-    "main.5b4526f5.js.map": "/tsreact/static/js/main.5b4526f5.js.map",
+    "main.b65f80b9.js.map": "/tsreact/static/js/main.b65f80b9.js.map",
     "787.b8469d98.chunk.js.map": "/tsreact/static/js/787.b8469d98.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.5b4526f5.js"
+    "static/js/main.b65f80b9.js"
   ]
 }
